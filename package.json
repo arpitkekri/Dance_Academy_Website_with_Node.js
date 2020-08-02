@@ -1,0 +1,23 @@
+{
+  "name": "dance-website",
+  "version": "1.0.0",
+  "description": "This is a website for popular dance academy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpitkekri/DanceWebsite_with_Node.js.git"
+  },
+  "author": "Arpit Kumar Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpitkekri/DanceWebsite_with_Node.js/issues"
+  },
+  "homepage": "https://github.com/arpitkekri/DanceWebsite_with_Node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}
