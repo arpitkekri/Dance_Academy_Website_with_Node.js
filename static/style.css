@@ -16,13 +16,18 @@
 }
 
 #logo img{
-height: 42px;
+    height: 42px;
     filter: invert(1);
 }
 
+#logo:hover{
+    cursor: pointer;
+    filter: invert(100%);
+}
 
 #navbar{
-    background-color: #d43b3b;
+    background-color: #4135d2;
+    opacity: 0.6;
     padding: 18px 14px;
     font-family: 'Yeon Sung' ;
 }
@@ -60,7 +65,7 @@ height: 42px;
     align-items: center;
     background: center/cover no-repeat url("/static/bg1.jpg") ;
     height: 425px;
-    background-color: red;
+    background-size: 1522px 866px;
 }
 #introSection div.small{
     font-size: 52px;
